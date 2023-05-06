@@ -46,7 +46,7 @@ function setup() {
   solo = createSprite(width / 2, height / 1.5, windowWidth, 20);
   solo.addImage(ground);
   solo.scale = 1.1
-  trex.depth = solo.depth
+  //trex.depth = solo.depth
   trex.depth = trex.depth + 1
 
 
