@@ -47,7 +47,7 @@ function setup() {
   solo.addImage(ground);
   solo.scale = 1.1
   //trex.depth = solo.depth
-  trex.depth = trex.depth + 1
+ 
 
 
 
